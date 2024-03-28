@@ -1,2 +1,5 @@
 # Web-Sederhana
-submission dicoding
+
+hanya website sederhana hasil submission dicoding
+
+HTML + CSS + JavaScript
